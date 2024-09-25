@@ -2,6 +2,11 @@
 
 A utility library for generating and comparing JavaScript object type signatures. This library helps you determine if two objects share the same structure by comparing their type signatures. It's useful for validating object shapes, especially when working with dynamic or complex data structures.
 
+<img src="https://github.com/user-attachments/assets/80014690-139e-46f1-96c5-12893b2b4a04" height="25">
+<img src="https://github.com/user-attachments/assets/b1162d12-fa35-4746-918d-0d3ec0aa0d4a" height="25">
+<img src="https://github.com/user-attachments/assets/9e1525c7-b7e0-4798-9126-5e5a8ec13d26" height="25">
+
+
 ## Features
 
 - Generate type signatures for JavaScript objects, arrays, and primitives.
